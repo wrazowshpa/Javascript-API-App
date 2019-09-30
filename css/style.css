@@ -1,0 +1,10 @@
+
+
+#container {
+  width: 90%;
+  background-color: gold;
+  margin: 0 auto 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto auto auto auto auto;
+}
